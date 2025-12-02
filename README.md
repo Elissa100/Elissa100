@@ -31,8 +31,8 @@ Driving impact through clean architecture, scalable systems, and end-to-end deli
 
 ## 📈 My GitHub Metrics
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent)
+![Metrics](https://github-readme-stats.vercel.app/api?username=Elissa100\&show_icons=true\&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissa100\&layout=compact\&theme=transparent)
 
 ---
 
