@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I’m Elissa SIBOMANA 👋
 
-<!--
-**Elissa100/Elissa100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://i.gifer.com/7VE.gif)
 
-Here are some ideas to get you started:
+## 🚀 Software Developer | Backend, Frontend, Mobile & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Driving impact through clean architecture, scalable systems, and end-to-end delivery.
+
+---
+
+## 💼 What I Bring to the Table
+
+* **Backend Excellence:** Java (Spring Boot), Node.js (Express.js), Python
+* **Frontend Delivery:** React.js, Tailwind CSS, Bootstrap
+* **Mobile Engineering:** Flutter & React Native
+* **Databases:** PostgreSQL, MySQL 💾
+* **DevOps Workflow:** CI/CD, containerization, automation-first mindset
+
+---
+
+## 📊 My Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, Python, Dart
+**Frameworks:** Spring Boot, Express.js, React, Flutter
+**Tools:** GitHub Actions, Docker, Prisma, Postman
+**Cloud:** AWS, Render, Railway
+
+---
+
+---
+
+## 📈 My GitHub Metrics
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent)
+
+---
+
+## 🎯 What I'm Focusing on
+
+* Open to new opportunities & collaborations
+* Building **high-availability systems**
+* Scaling **microservices architectures**
+* Advancing **DevOps automation**
+* Sharpening cloud skills
+* Building **high‑availability systems**
+* Scaling **microservices architectures**
+* Advancing **DevOps automation**
+* Sharpening cloud skills
+
+---
+
+## 📬 Let’s Connect
+
+**Email:** [sibomanaelissa71@gmail.com](mailto:sibomanaelissa71@gmail.com)
+**Phone:** +250796146694
+**WhatsApp:** +250796146694
+**Telegram:** +250796146694
+**Portfolio:** [https://eli-ssasibo.netlify.app/](https://eli-ssasibo.netlify.app/)
+
+---
+
+> "Keep shipping. Keep scaling. Keep innovating." 🚀
