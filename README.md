@@ -1,4 +1,4 @@
-# Hi there, I’m Elissa SIBOMANA 👋
+# Hi there, I’m Trent 👋
 
 ![Banner](https://i.gifer.com/7VE.gif)
 
@@ -39,6 +39,12 @@ Driving impact through clean architecture, scalable systems, and end-to-end deli
 ## 🎯 What I'm Focusing on
 
 * Open to new opportunities & collaborations
+* Currently diving into **Machine Learning**
+* Building **high-availability systems**
+* Scaling **microservices architectures**
+* Advancing **DevOps automation**
+* Sharpening cloud skills
+* Open to new opportunities & collaborations
 * Building **high-availability systems**
 * Scaling **microservices architectures**
 * Advancing **DevOps automation**
@@ -52,11 +58,11 @@ Driving impact through clean architecture, scalable systems, and end-to-end deli
 
 ## 📬 Let’s Connect
 
-**Email:** [sibomanaelissa71@gmail.com](mailto:sibomanaelissa71@gmail.com)
-**Phone:** +250796146694
-**WhatsApp:** +250796146694
-**Telegram:** +250796146694
-**Portfolio:** [https://eli-ssasibo.netlify.app/](https://eli-ssasibo.netlify.app/)
+📞 **Phone:** +250796146694
+💬 **WhatsApp:** [Chat with me](https://wa.me/250796146694)
+📨 **Telegram:** +250796146694
+📧 **Email:** [sibomanaelissa71@gmail.com](mailto:sibomanaelissa71@gmail.com)
+🌐 **Portfolio:** [https://eli-ssasibo.netlify.app/](https://eli-ssasibo.netlify.app/)
 
 ---
 
