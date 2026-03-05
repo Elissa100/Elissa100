@@ -1,122 +1,121 @@
 # Hi, I'm Elissa 👋  
 ## Full-Stack Software Engineer | Backend • Frontend • Cloud
 
-<div align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" />
-</div>
+I build **production-ready software systems** focused on performance, reliability, and clean architecture.
+
+My work spans **backend engineering, modern web interfaces, mobile development, and cloud deployment**.  
+I enjoy turning ideas into real applications and shipping systems that scale.
+
+I graduated from **Rwanda Coding Academy**, specializing in **Software Programming and Embedded Systems**, and I’m currently **open to software engineering opportunities**.
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I build production-ready software systems focused on performance, reliability, and clean architecture.
+🔭 **I’m currently working on**  
+EFMS — a full-stack financial management system built with **Django, React, and PostgreSQL**
 
-My work spans backend engineering, frontend interfaces, mobile development, and cloud deployment automation.
+👯 **I’m looking to collaborate on**  
+Open-source full-stack applications, backend APIs, and developer tools
 
-I care more about shipping stable systems than stacking random technologies.
+🤝 **I’m looking for help with**  
+Scaling production systems, cloud deployment, and advanced system design
 
----
+🌱 **I’m currently learning**  
+System architecture, DevOps practices, and building highly scalable backend systems
 
-## 📊 GitHub Activity
+💬 **Ask me about**  
+Django, Spring Boot, Node.js APIs, React apps, databases, and full-stack architecture
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elissa100&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elissa100&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissa100&layout=compact&theme=radical&hide_border=true)
-
-</div>
+⚡ **Fun fact**  
+I enjoy building complete products — backend, frontend, database, and deployment
 
 ---
 
-## 🌊 Contribution Timeline
+# 🌐 Connect With Me
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elissa100&theme=react-dark&hide_border=true" width="100%">
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/e_sibo_08)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ElissaSibo44458)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibomanaelissa71@gmail.com)
 
----
-
-## 🧠 Languages, Frameworks & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
----
-
-### ⚡ Backend Frameworks
-
-<p align="left">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
----
-
-### 🎨 Frontend Frameworks
-
-<p align="left">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
----
-
-### 📱 Mobile Development
-
-<p align="left">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
----
-
-### ☁️ DevOps & Cloud
-
-<p align="left">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
----
-
-## 📌 What I Focus On
-
-- High availability backend systems  
-- Scalable web architectures  
-- Production deployment automation  
-- Performance optimization  
-- Maintainable codebases that don’t become nightmares later  
-
----
-
-## 📬 Connect With Me
-
-📧 Email: <mailto:sibomanaelissa71@gmail.com>  
+📧 Email: sibomanaelissa71@gmail.com  
 📞 Phone: +250796146694  
 💬 WhatsApp: https://wa.me/250796146694  
 🌐 Portfolio: https://eli-ssasibo.netlify.app/
 
 ---
 
-<div align="center">
+# 💻 Tech Stack
 
-🔥 Ship fast. Scale smart. Build reliable systems.
+### Programming
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
-</div>
+### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+### Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Elissa100&theme=radical&hide_border=true&include_all_commits=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Elissa100&theme=radical&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissa100&layout=compact&theme=radical&hide_border=true)
+
+---
+
+# 🌊 Contribution Timeline
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Elissa100&theme=react-dark&hide_border=true)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=Elissa100&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=Elissa100&icon=0&color=0)
+
+---
+
+🔥 **Ship fast. Scale smart. Build reliable systems.**
