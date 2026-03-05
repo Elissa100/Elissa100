@@ -13,24 +13,22 @@ I graduated from **Rwanda Coding Academy**, specializing in **Software Programmi
 # 💫 About Me
 
 🔭 **I’m currently working on**  
-EFMS — a full-stack financial management system built with **Django, React, and PostgreSQL**
+EFMS — a full-stack financial management system built with Django, React, and PostgreSQL
 
 👯 **I’m looking to collaborate on**  
-Open-source full-stack applications, backend APIs, and developer tools
+Open-source full-stack applications, scalable backend systems, and developer tools
 
-🤝 **I’m looking for help with**  
-Scaling production systems, cloud deployment, and advanced system design
+🚀 **I’m expanding into**  
+Artificial Intelligence, Cybersecurity, and Ruby ecosystem development
 
-🌱 **I’m currently learning**  
-System architecture, DevOps practices, and building highly scalable backend systems
+🌱 **Currently exploring**  
+AI-powered applications, security best practices, and building apps with Ruby & Rails
 
 💬 **Ask me about**  
-Django, Spring Boot, Node.js APIs, React apps, databases, and full-stack architecture
+Spring Boot, Node.js APIs, Django, React, Flutter, databases, and full-stack architecture
 
 ⚡ **Fun fact**  
 I enjoy building complete products — backend, frontend, database, and deployment
-
----
 
 # 🌐 Connect With Me
 
