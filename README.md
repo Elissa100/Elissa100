@@ -1,64 +1,86 @@
-# Hi there, I’m Elissa 👋  
-**Full-Stack Engineer | Backend • Frontend • Mobile • DevOps**
+# Hi, I'm Elissa 👋  
+## Full-Stack Software Engineer | Backend • Frontend • Cloud
 
-![Banner](https://i.gifer.com/7VE.gif)
+<div align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="100%" />
+</div>
 
-I architect and ship production-ready solutions end-to-end — from backend systems and frontend interfaces to mobile experiences and DevOps pipelines. I focus on performance, scalability, and operational excellence.
+### 🚀 About Me
+
+I build production-ready software systems that focus on performance, reliability, and clean architecture.
+
+I work across backend services, frontend interfaces, mobile apps, and cloud deployment pipelines.
+
+I care more about shipping stable systems than collecting frameworks.
 
 ---
 
-## 🚀 Core Value Proposition  
-Driving high-impact engineering outcomes through clean architecture, robust infrastructure, and customer-centric delivery.
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elissa100&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elissa100&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissa100&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 💼 Technical Capabilities  
+## 🌊 Contribution Timeline
 
-### **Backend Engineering**  
-- Java (Spring Boot), Node.js (Express), Python  
-- REST APIs, microservices, event-driven systems  
+<div align="center">
 
-### **Frontend Engineering**  
-- React, Tailwind CSS, Bootstrap  
-- Component-driven development, responsive UX  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elissa100&theme=react-dark&hide_border=true" width="100%">
 
-### **Mobile Development**  
+</div>
+
+---
+
+## 🧠 Technical Stack
+
+### Backend
+- Java (Spring Boot)  
+- Node.js (Express / NestJS)  
+- Python (FastAPI / Django)
+
+### Frontend
+- React, Next.js, TypeScript  
+- Tailwind CSS, Modern UI Architecture  
+
+### Mobile
 - Flutter, React Native  
 
-### **Data & Persistence**  
-- PostgreSQL, MySQL  
-- Prisma ORM, schema design, query optimization  
-
-### **DevOps & Cloud**  
-- Docker, GitHub Actions, CI/CD  
-- AWS, Render, Railway  
-- Automation, containerized deployments, observability workflows  
+### Cloud & DevOps
+- Docker  
+- GitHub Actions  
+- AWS / Railway / Render  
 
 ---
 
-## 📊 Engineering Toolkit  
-**Languages:** Java, JavaScript, TypeScript, Python, Dart  
-**Frameworks:** Spring Boot, Express, React, Flutter  
-**Practices:** Containerization, CI/CD automation, cloud-native engineering  
+## 📌 What I Focus On
+
+- High availability backend systems  
+- Scalable web architectures  
+- Production deployment automation  
+- Performance optimization  
+- Clean maintainable codebases  
 
 ---
 
-## 🎯 Strategic Focus Areas  
-- High-availability backend architectures  
-- Scalable microservices & distributed systems  
-- DevOps automation and delivery excellence  
-- Cloud-native operations and SRE practices  
-- ML/AI applied to production-grade systems  
+## 📬 Connect With Me
+
+📧 Email: <mailto:sibomanaelissa71@gmail.com>  
+📞 Phone: +250796146694  
+💬 WhatsApp: https://wa.me/250796146694  
+🌐 Portfolio: https://eli-ssasibo.netlify.app/
 
 ---
 
-## 📬 Let’s Connect  
-- **Phone:** +250 796 146 694  
-- **WhatsApp:** [Click to chat](https://wa.me/250796146694)  
-- **Telegram:** +250 796 146 694  
-- **Email:** [sibomanaelissa71@gmail.com](mailto:sibomanaelissa71@gmail.com)  
-- **Portfolio:** https://eli-ssasibo.netlify.app/
+<div align="center">
 
----
+🔥 Ship fast. Scale smart. Build reliable systems.
 
-> **“Ship fast. Scale smart. Innovate relentlessly.”** 🚀
+</div>
