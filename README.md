@@ -1,33 +1,43 @@
 # Hi, I'm Elissa 👋  
-## Full-Stack Software Engineer | Backend • Frontend • Cloud
+## Full-Stack Engineer | Systems Builder | Shipper 🚀
 
-I build **production-ready software systems** focused on performance, reliability, and clean architecture.
+I build **real-world software systems** that don’t just run… they scale, survive, and make sense.
 
-My work spans **backend engineering, modern web interfaces, mobile development, and cloud deployment**.  
-I enjoy turning ideas into real applications and shipping systems that scale.
+From **backend architecture → frontend experience → deployment pipelines**,  
+I don’t stop at features — I ship **complete, production-ready products**.
 
-I graduated from **Rwanda Coding Academy**, specializing in **Software Programming and Embedded Systems**, and I’m currently **open to software engineering opportunities**.
+> ⚡ “If it works locally but breaks in prod, it’s not done.”
 
 ---
 
-#  About Me
+# 🧠 About Me
 
-🔭 **I’m currently working on**  
-EFMS — a full-stack financial management system built with Django, React, and PostgreSQL
+🎓 Graduate from **Rwanda Coding Academy**  
+Specialized in **Software Programming & Embedded Systems**
 
-👯 **I’m looking to collaborate on**  
-Open-source full-stack applications, scalable backend systems, and developer tools
- **I’m expanding into**  
-Artificial Intelligence, Cybersecurity, and Ruby ecosystem development
+💼 Currently building:  
+**EFMS** — a full-stack financial system (Django + React + PostgreSQL)
 
-🌱 **Currently exploring**  
-AI-powered applications, security best practices, and building apps with Ruby & Rails
+🚀 What I do best:
+- Design scalable backend systems  
+- Build clean, modern frontend UIs  
+- Connect everything into one solid product  
+- Deploy and keep it running in the real world  
 
-💬 **Ask me about**  
-Spring Boot, Node.js APIs, Django, React, Flutter, databases, and full-stack architecture
+🧪 Exploring:
+- AI-powered applications  
+- Cybersecurity & system hardening  
+- Ruby & Rails ecosystem  
 
-⚡ **Fun fact**  
-I enjoy building complete products — backend, frontend, database, and deployment
+🤝 Open to:
+- Full-stack roles  
+- Backend-heavy engineering roles  
+- Serious projects that actually ship  
+
+⚡ Fun fact:  
+I don’t like half-built systems. If I start it, I finish the backend, frontend, database, and deployment.
+
+---
 
 # 🌐 Connect With Me
 
@@ -44,42 +54,33 @@ I enjoy building complete products — backend, frontend, database, and deployme
 
 # 💻 Tech Stack
 
-### Programming
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+### 🧩 Programming
+Java • Python • JavaScript • TypeScript • Dart
 
-### Backend
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+### ⚙️ Backend
+Spring Boot • NestJS • Node.js • Express • FastAPI • Django  
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+### 🎨 Frontend
+React • Next.js • Vue.js • Vite  
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+### 📱 Mobile
+Flutter • React Native  
 
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB • Redis  
 
-### DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+### 🚀 DevOps & Tools
+Docker • GitHub Actions • Nginx • Linux  
+Vercel • Railway • Render  
+
+---
+
+# 🧠 Engineering Mindset
+
+- Build for **scale**, not just demos  
+- Keep code **clean, modular, and maintainable**  
+- Focus on **real-world performance**  
+- Think in **systems, not just endpoints**  
 
 ---
 
@@ -99,13 +100,14 @@ I enjoy building complete products — backend, frontend, database, and deployme
 
 ---
 
-### ✍️ Random Dev Quote
+# 🎧 While Building
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🎵 *"Congratulations"* — Post Malone  
+Because we don’t just start projects… we actually finish them.
 
 ---
 
-### 🔝 Top Contributed Repositories
+# 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=Elissa100&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -115,4 +117,4 @@ I enjoy building complete products — backend, frontend, database, and deployme
 
 ---
 
-🔥 **Ship fast. Scale smart. Build reliable systems.**
+🔥 **Build fast. Break things (intentionally). Fix them better. Ship anyway.**
