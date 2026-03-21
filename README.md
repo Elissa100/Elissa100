@@ -1,120 +1,117 @@
-# Hi, I'm Elissa 👋  
-## Full-Stack Engineer | Systems Builder | Shipper 🚀
+# Hi, Call me  Elissa, Sibomana 👋  
+## Full-Stack Engineer | Backend Systems • Frontend • Cloud 🚀
 
-I build **real-world software systems** that don’t just run… they scale, survive, and make sense.
+I build **production-grade applications** focused on performance, scalability, and clean architecture.
 
-From **backend architecture → frontend experience → deployment pipelines**,  
-I don’t stop at features — I ship **complete, production-ready products**.
-
-> ⚡ “If it works locally but breaks in prod, it’s not done.”
+From API design to UI and deployment, I deliver **complete systems that actually run in production**.
 
 ---
 
 # 🧠 About Me
 
-🎓 Graduate from **Rwanda Coding Academy**  
-Specialized in **Software Programming & Embedded Systems**
+🎓 Rwanda Coding Academy — Software Programming & Embedded Systems  
 
 💼 Currently building:  
-**EFMS** — a full-stack financial system (Django + React + PostgreSQL)
+**EFMS** — Financial Management System (Django + React + PostgreSQL)
 
-🚀 What I do best:
-- Design scalable backend systems  
-- Build clean, modern frontend UIs  
-- Connect everything into one solid product  
-- Deploy and keep it running in the real world  
+🚀 Focus:
+- Backend systems & API architecture  
+- Scalable full-stack applications  
+- Clean UI/UX with real usability  
+- Deployment & system reliability  
 
 🧪 Exploring:
-- AI-powered applications  
-- Cybersecurity & system hardening  
-- Ruby & Rails ecosystem  
-
-🤝 Open to:
-- Full-stack roles  
-- Backend-heavy engineering roles  
-- Serious projects that actually ship  
-
-⚡ Fun fact:  
-I don’t like half-built systems. If I start it, I finish the backend, frontend, database, and deployment.
+- AI-powered systems  
+- Cybersecurity  
+- Ruby & Rails  
 
 ---
 
-# 🌐 Connect With Me
+# ⚙️ Tech Stack (Real Skills)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/e_sibo_08)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ElissaSibo44458)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibomanaelissa71@gmail.com)
+### Backend
+- Java (Spring Boot)
+- Node.js (NestJS, Express)
+- Python (Django, FastAPI)
 
-📧 Email: sibomanaelissa71@gmail.com  
-📞 Phone: +250796146694  
-💬 WhatsApp: https://wa.me/250796146694  
-🌐 Portfolio: https://eli-ssasibo.netlify.app/
+### Frontend
+- React, Next.js
+- TypeScript, JavaScript
+- Tailwind CSS, Bootstrap
 
----
+### Mobile
+- Flutter
+- React Native
 
-# 💻 Tech Stack
+### Databases
+- PostgreSQL (advanced usage)
+- MySQL
+- MongoDB
+- Redis (caching)
 
-### 🧩 Programming
-Java • Python • JavaScript • TypeScript • Dart
+### DevOps & Systems
+- Docker (containerization)
+- Linux (server management)
+- Nginx (reverse proxy)
+- CI/CD (GitHub Actions)
 
-### ⚙️ Backend
-Spring Boot • NestJS • Node.js • Express • FastAPI • Django  
-
-### 🎨 Frontend
-React • Next.js • Vue.js • Vite  
-
-### 📱 Mobile
-Flutter • React Native  
-
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB • Redis  
-
-### 🚀 DevOps & Tools
-Docker • GitHub Actions • Nginx • Linux  
-Vercel • Railway • Render  
-
----
-
-# 🧠 Engineering Mindset
-
-- Build for **scale**, not just demos  
-- Keep code **clean, modular, and maintainable**  
-- Focus on **real-world performance**  
-- Think in **systems, not just endpoints**  
+### Cloud & Deployment
+- Vercel (frontend)
+- Railway (backend services)
+- Render
 
 ---
 
-# 📊 GitHub Stats
+# 🧠 What I Bring
 
-![](https://github-readme-stats.vercel.app/api?username=Elissa100&theme=radical&hide_border=true&include_all_commits=true)
+- Build systems that **scale beyond localhost**
+- Write code that **other engineers can actually maintain**
+- Think in **architecture, not just features**
+- Ship fast without breaking everything (most of the time 😐)
 
+---
+
+# 📊 GitHub Analytics
+
+## 🧾 General Stats
+![](https://github-readme-stats.vercel.app/api?username=Elissa100&show_icons=true&theme=radical&hide_border=true)
+
+## 🔥 Streak Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=Elissa100&theme=radical&hide_border=true)
 
+## 🧠 Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elissa100&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-# 🌊 Contribution Timeline
+# 📈 Advanced Metrics
 
+## ⏱️ Coding Time (WakaTime)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Elissa100&theme=radical&hide_border=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Elissa100&theme=radical&no-frame=true&margin-w=10)
+
+## 📊 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Elissa100&theme=react-dark&hide_border=true)
+
+---
+
+# 🧩 Contribution Breakdown
+![](https://github-contributor-stats.vercel.app/api?username=Elissa100&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 # 🎧 While Building
 
-🎵 *"Congratulations"* — Post Malone  
-Because we don’t just start projects… we actually finish them.
+🎵 *Congratulations* — Post Malone  
+More like “I made it through the bugs and fake tutorials” than celebration.
 
 ---
 
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Elissa100&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
+# 🌍 Visitors
 ![](https://visitcount.itsvg.in/api?id=Elissa100&icon=0&color=0)
 
 ---
 
-🔥 **Build fast. Break things (intentionally). Fix them better. Ship anyway.**
+🔥 **Build. Break. Learn. Repeat. Then scale it.**
