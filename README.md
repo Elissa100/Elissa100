@@ -1,6 +1,4 @@
-Got you. Here's a full `.md` file ready to copy-paste for your GitHub — fully terminal/dev-style, clean, real skills, GitHub stats, and all sections in a single markdown file:
 
-````md
 # Hi 👋, Call me Elissa
 ### Full-Stack Software Engineer | Backend • Frontend • Cloud 🚀
 
@@ -95,7 +93,5 @@ Because every bug fixed is a small victory.
 ```text
 Build fast. Break shit. Fix it. Ship anyway.
 Scale smart. Stay reliable.
-```
 
----
 
