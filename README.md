@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, Call meElissa and I'm a Full-Stack Software Engineer from Rwanda</h2>
+<h2 align="left">Hi 👋, Call me Elissa and I'm a Full-Stack Software Engineer from Rwanda</h2>
 
 ###
 
