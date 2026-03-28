@@ -11,7 +11,7 @@
 </p>
 
 ## 📌 About Me
-- 🧠 I am currently learning Ai, machine learning, and cybersecurity
+- 🧠 I am currently learning AI, machine learning, and cybersecurity
 - 🔍 I am exploring advanced software architecture, cloud systems, and DevOps
 - 💻 I am building modern, scalable web apps with React, Next.js, Tailwind, Node.js, NestJS, Spring Boot, and Django
 - 🛠️ I am solving complex problems and turning them into clean, working solutions
