@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 📌 About Me
+##  About Me
 - Full-stack developer building real-world web applications
 - Focused on clean architecture and scalable systems
 - I care about performance, not just making things work
