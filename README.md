@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 🚀 Full-stack developer building real-world web applications<br>🏗️ Focused on clean architecture and scalable systems<br>⚡ I care about performance, not just making things work<br>🛠️ I turn ideas into production-ready products<br>📈 Always learning, but I ship while learning<br><br>🧠 **My Focus Areas**<br><br>🔥 Frontend engineering     crafting high-performance UIs with React & Next.js that actually scale<br>⚙️ Backend development    building secure APIs, rock-solid auth, and clean system design<br>🏗️ Scalable architecture     structuring apps for growth, not rewrites<br>🤖 Machine learning     turning theory into real-world, usable features<br>🚀 Ruby on Rails   shipping backend systems fast without sacrificing quality<br>
 
 
@@ -19,3 +19,4 @@
 [![](https://komarev.com/ghpvc/?username=Elissa100&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://eli-ssasibo.netlify.app/)
