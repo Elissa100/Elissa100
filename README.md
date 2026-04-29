@@ -6,9 +6,9 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech 
 
-### Frontend
+### Front
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square\&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square\&logo=css3)
@@ -19,7 +19,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square\&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square\&logo=bootstrap)
 
-### Backend
+### Back
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square\&logo=express)
