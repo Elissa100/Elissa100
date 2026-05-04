@@ -1,8 +1,8 @@
-# 👋 Yo, I'm Elissa
+# 👋 Yo, call me  Elissa
 
 💻 Full-Stack Developer building fast, scalable, and clean systems
 ⚡ Turning ideas into real products not just tutorials
-🚀 Focused on performance, architecture, and shipping real product
+ Focused on performance, architecture, and shipping real product
 
 ---
 
