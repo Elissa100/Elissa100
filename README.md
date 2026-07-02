@@ -1,6 +1,6 @@
-# 👋 Yo, call me  Elissa
+# Yo, call me  Elissa
 
-💻 Full-Stack Developer building fast, scalable, and clean systems
+ Full-Stack Developer building fast, scalable, and clean systems
  Turning ideas into real products not just tutorials
  Focused on performance, architecture, and shipping real product
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Elissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elissa100\&show_icons=true\&theme=tokyonight)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+##  Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elissa100\&theme=tokyo-night)
 
